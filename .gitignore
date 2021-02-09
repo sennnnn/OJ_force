@@ -1,0 +1,6 @@
+# General Ignore Rule
+a.exe
+.vscode
+
+# Special Ignore Ruls
+
