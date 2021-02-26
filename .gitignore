@@ -2,6 +2,7 @@
 a.exe
 .vscode
 try.*
+temp.*
 
 # Special Ignore Ruls
 
