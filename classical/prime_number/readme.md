@@ -1,6 +1,6 @@
 # 记录素数相关问题
 
-## [计数质数](https://leetcode-cn.com/problems/count-primes/solution/ji-shu-zhi-shu-by-leetcode-solution/)
+## [1. 计数质数](https://leetcode-cn.com/problems/count-primes/solution/ji-shu-zhi-shu-by-leetcode-solution/)
 
 ### 枚举法
 
